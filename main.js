@@ -9,7 +9,7 @@ function calcular() {
     d.innerHTML = `O IMC é: <strong> ${imc.toFixed(2)} </strong>` //fixando 2 casas decimais
 }
 
-if(imc < 18.5) {
+/*if(imc < 18.5) {
     "Está abaixo do peso"
 } else if (imc >= 18.6 && imc <= 24.9 ) {
     "Seu peso está normal"
@@ -21,5 +21,5 @@ if(imc < 18.5) {
     "Você está com obesidade tipo II"
 } else {
         "Você está com obesidade tipo III"
-}
+}*/
     
